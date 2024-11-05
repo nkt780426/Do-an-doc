@@ -1,0 +1,4 @@
+Đây là code phần mô hình Triplet được chỉnh sửa lại để phù hợp với bài toán.
+
+Github: https://github.com/hoangngoclam298/Siamese-Triplet-Model
+GitHub nguồn tham khảo: https://github.com/adambielski/siamese-triplet

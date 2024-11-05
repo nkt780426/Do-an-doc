@@ -1,0 +1,3 @@
+Đây là thư mục chứa các file chạy trên Kaggle để huấn luyện mô hình
+
+Bộ dữ liệu sau khi tiền xử lý: https://www.kaggle.com/datasets/lamhn2101/new-data-face

@@ -1,0 +1,2 @@
+file cal-roc.ipynb dùng để đánh giá đường ROC và chỉ số AUC của weight mỗi mô hình
+file vs_train_ROC_cpmpare.py dùng để trực quan hóa chỉ số của mô hình trong quá trình train

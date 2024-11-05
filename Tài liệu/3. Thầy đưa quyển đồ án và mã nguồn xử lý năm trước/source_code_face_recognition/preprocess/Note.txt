@@ -1,0 +1,11 @@
+Chức năng của các file: 
+shift_crop.py 		- tiền xử lý dịch ảnh và crop 4 ảnh
+check_ok_image.py 	- chọn ra các ảnh đủ độ tin cậy sau khi chạy shift_crop.py
+copy_lightsource.py	- copy file chứa thông tin nguồn sáng chuẩn bị chạy phương pháp Photometric Stereo
+run_photostereo.py	- chạy code Photometric Stereo để thu được hình ảnh chứa thông tin 3D từ 4 ảnh 2D
+get_2D_3D.py		- tạo bộ dữ liệu 2D và 3D
+delete_occlusion.py	- xóa các phiên ảnh bị che khuất dẫn đến tạo ảnh 3D k tốt
+detect_face.py		- phát hiện khuôn mặt và crop để thu được bộ dữ lieu hoàn chỉnh
+
+Thứ tự chạy các file lần lượt như trên
+GitHub code: https://github.com/hoangngoclam298/3D_face_recognize
